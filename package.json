@@ -7,8 +7,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["colors", "js", "nodejs", "palette"],
+  "keywords": [
+    "colors",
+    "js",
+    "nodejs",
+    "palette"
+  ],
   "author": "Marcelo Amorim",
   "repository": "mmamorim/getcolor.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@svgdotjs/svg.js": "^3.2.0",
+    "svgdom": "^0.1.19"
+  }
 }
