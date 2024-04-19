@@ -1,7 +1,4 @@
 
-function ola(nome){
-	const texto = `Olá ${nome || 'web developer'}!`;
-	return texto
-}
+import { color, colorName } from "./colors/color.js"
 
-export default ola
+export { color, colorName }

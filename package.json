@@ -1,6 +1,6 @@
 {
   "name": "getcolor.js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A function to help use color palettes in javascript",
   "main": "index.js",
   "type": "module",
