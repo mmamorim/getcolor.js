@@ -3,7 +3,7 @@ const tones = ['_100', '_200', '_300', '_400', '_500', '_600', '_700', '_800', '
 
 const colorName = Object.keys(colorPalette);
 
-function color(idx, tone = 5) {
+function color(idx, tone = 4) {
     if(typeof(idx) == 'number') {
         let ridx = idx%18
         //console.log(ridx);

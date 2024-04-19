@@ -32,7 +32,7 @@ let output = draw.svg()
 console.log(output);
 
 try {
-  fs.writeFileSync('./out.svg', output);
+  fs.writeFileSync('./sample.svg', output);
   // file written successfully
 } catch (err) {
   console.error(err);
