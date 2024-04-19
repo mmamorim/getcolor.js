@@ -1,0 +1,14 @@
+{
+  "name": "getcolor.js",
+  "version": "1.0.3",
+  "description": "A function to help use color palettes in javascript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["colors", "js", "nodejs", "palette"],
+  "author": "Marcelo Amorim",
+  "repository": "mmamorim/getcolor.js",
+  "license": "MIT"
+}
